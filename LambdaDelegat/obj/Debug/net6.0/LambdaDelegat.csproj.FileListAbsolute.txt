@@ -1,0 +1,15 @@
+C:\Users\Huong Quynh Tran\source\repos\LambdaDelegat\LambdaDelegat\bin\Debug\net6.0\LambdaDelegat.exe
+C:\Users\Huong Quynh Tran\source\repos\LambdaDelegat\LambdaDelegat\bin\Debug\net6.0\LambdaDelegat.deps.json
+C:\Users\Huong Quynh Tran\source\repos\LambdaDelegat\LambdaDelegat\bin\Debug\net6.0\LambdaDelegat.runtimeconfig.json
+C:\Users\Huong Quynh Tran\source\repos\LambdaDelegat\LambdaDelegat\bin\Debug\net6.0\LambdaDelegat.dll
+C:\Users\Huong Quynh Tran\source\repos\LambdaDelegat\LambdaDelegat\bin\Debug\net6.0\LambdaDelegat.pdb
+C:\Users\Huong Quynh Tran\source\repos\LambdaDelegat\LambdaDelegat\obj\Debug\net6.0\LambdaDelegat.csproj.AssemblyReference.cache
+C:\Users\Huong Quynh Tran\source\repos\LambdaDelegat\LambdaDelegat\obj\Debug\net6.0\LambdaDelegat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Huong Quynh Tran\source\repos\LambdaDelegat\LambdaDelegat\obj\Debug\net6.0\LambdaDelegat.AssemblyInfoInputs.cache
+C:\Users\Huong Quynh Tran\source\repos\LambdaDelegat\LambdaDelegat\obj\Debug\net6.0\LambdaDelegat.AssemblyInfo.cs
+C:\Users\Huong Quynh Tran\source\repos\LambdaDelegat\LambdaDelegat\obj\Debug\net6.0\LambdaDelegat.csproj.CoreCompileInputs.cache
+C:\Users\Huong Quynh Tran\source\repos\LambdaDelegat\LambdaDelegat\obj\Debug\net6.0\LambdaDelegat.dll
+C:\Users\Huong Quynh Tran\source\repos\LambdaDelegat\LambdaDelegat\obj\Debug\net6.0\refint\LambdaDelegat.dll
+C:\Users\Huong Quynh Tran\source\repos\LambdaDelegat\LambdaDelegat\obj\Debug\net6.0\LambdaDelegat.pdb
+C:\Users\Huong Quynh Tran\source\repos\LambdaDelegat\LambdaDelegat\obj\Debug\net6.0\LambdaDelegat.genruntimeconfig.cache
+C:\Users\Huong Quynh Tran\source\repos\LambdaDelegat\LambdaDelegat\obj\Debug\net6.0\ref\LambdaDelegat.dll
