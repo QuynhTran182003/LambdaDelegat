@@ -15,12 +15,6 @@
             Console.WriteLine(a - b);
         }
 
-        private static void Mul(int a, int b)
-        {
-            Console.WriteLine(a * b);
-        }
-
-
         private static bool jeSudy(int a)
         {
             return a % 2 == 0;
@@ -41,7 +35,9 @@
             try
             {
                 del2.Invoke(5, 1);
+#pragma warning disable CS8600 // Converting null literal or possible null value to non-nullable type.
                 del2 = del2 - delMin;
+#pragma warning restore CS8600 // Converting null literal or possible null value to non-nullable type.
             } 
             catch(Exception e)
             {
@@ -52,7 +48,7 @@
             // FUNC<>
             // hodne vstupu, 1 vystup
             Func<int, bool> func = jeSudy;
-            Console.WriteLine("Func jeSudy: "+func.Invoke(4));
+            Console.WriteLine("Func jeSudy: " + func.Invoke(4));
 
             // ACTION
             // 16 param, jen vstup, nevreati hodnotu
@@ -79,6 +75,7 @@
             DelegateDelegate anonymni = delegate (int a, int b) { Console.WriteLine(a / b); };
             anonymni(5, 5);
 
+
             //Lambda fkce
             //Lambda operator => hlavni cast cele lambda funkce
 
@@ -89,6 +86,20 @@
             Console.WriteLine(soucet(10, 14));
             vypis("asdf");
             Console.WriteLine(check("asdfsdfgfg"));
+
+
+            // LINQ
+            List<int> myList = new List<int>();
+            myList.Add(5);
+            myList.Add(2);
+            myList.Add(4);
+            myList.Add(7);
+
+            List<int> bigger5 = myList.FindAll(a => a >= 5);
+            foreach (int i in bigger5)
+            {
+                Console.WriteLine(i);
+            }
         }
     }
 }
